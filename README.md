@@ -24,7 +24,7 @@ This is meant for beginner to intermediate practicioners in Cybersecurity but al
 
 [Click2Houston Deals](https://deals.click2houston.com/): News Channel based website, often offers computers, IT Learning resources for cheap
 
-[LearnDocker](https://learndocker.online/login): Learn Docker - a containerization tool for free online
+[LearnDocker](https://learndocker.online/login): Learn Docker - a containerization tool you can learn basics for free online
 
 [TestOut](https://w3.testout.com/): Kinda pricey but offers virtual labbing for Cybersecurity tests (A+, Net+, Sec+, CCNA)
 
