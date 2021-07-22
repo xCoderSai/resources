@@ -30,6 +30,8 @@ This is meant for beginner to intermediate practicioners in Cybersecurity but al
 
 [Alberto Hill](https://albertohill.com/): Signing up for his email newsletter + following on twitter often gets you free Udemy courses
 
+[FreeCodeCamp](https://www.freecodecamp.org/): Good for the bare bare bare basics, but **Email list** / **YouTube Channel** is the real deal
+
 [Cisco Webinars](https://learningnetwork.cisco.com/s/): A vendor for certs and for businesses, they offer FREE websinars for IT stuff
 
 [CCNA Prep Forums](https://www.ccna7.com/)
