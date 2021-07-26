@@ -45,3 +45,4 @@ This is meant for beginner to intermediate practicioners in Cybersecurity but al
 
 [Open Source Intelligence](https://github.com/xCoderSai/osint)
 
+[The Dutch Hacker - blog](https://www.thedutchhacker.com/)
